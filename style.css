@@ -1,0 +1,37 @@
+.Ingredients,
+.steps,
+.Description {
+    font-size: 15px;
+    font-family: "Brush Script MT", monospace, sans-serif;
+    font-weight: bold;
+}   
+
+#hello {
+    color:green;
+    font-weight: 800;
+    font-family: "Brush Script MT"
+}
+
+.steps{
+    color:green;
+}
+
+#list{
+    color:plum
+}
+
+.intro {
+    padding: 8px;
+    margin: auto;
+    text-align: center;
+    font-weight:bold;
+    font-size: 20px;
+    width: 400px;
+    color:blueviolet;
+}
+
+button {
+    padding: 8px;
+    margin-bottom: 3px;
+    background-color: red;
+}
